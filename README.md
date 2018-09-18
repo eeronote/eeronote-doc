@@ -1,2 +1,7 @@
 # eeronote-doc
-eeronote documents
+
+EeroNote  
+
+light weight online text editor 
+
+Ref WIKI page
