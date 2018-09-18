@@ -1,7 +1,5 @@
-# eeronote-doc
-
-EeroNote  
+# EeroNote
 
 light weight online text editor 
 
-Ref WIKI page
+Ref WIKI pages
